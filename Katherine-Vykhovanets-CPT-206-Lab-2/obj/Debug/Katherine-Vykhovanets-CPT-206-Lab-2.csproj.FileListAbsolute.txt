@@ -1,0 +1,13 @@
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\bin\Debug\City.mdf
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\bin\Debug\City_log.ldf
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\bin\Debug\Katherine-Vykhovanets-CPT-206-Lab-2.exe.config
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\bin\Debug\Katherine-Vykhovanets-CPT-206-Lab-2.exe
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\bin\Debug\Katherine-Vykhovanets-CPT-206-Lab-2.pdb
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\obj\Debug\Katherine-Vykhovanets-CPT-206-Lab-2.csproj.AssemblyReference.cache
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\obj\Debug\Katherine_Vykhovanets_CPT_206_Lab_2.Form1.resources
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\obj\Debug\Katherine_Vykhovanets_CPT_206_Lab_2.Properties.Resources.resources
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\obj\Debug\Katherine-Vykhovanets-CPT-206-Lab-2.csproj.GenerateResource.cache
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\obj\Debug\Katherine-Vykhovanets-CPT-206-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\obj\Debug\Katherine-Vykhovanets-CPT-206-Lab-2.exe
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\obj\Debug\Katherine-Vykhovanets-CPT-206-Lab-2.pdb
+C:\Users\kathe\source\repos\Katherine-Vykhovanets-CPT-206-Lab-2\obj\Debug\Katherine_Vykhovanets_CPT_206_Lab_2.CityDetails.resources
