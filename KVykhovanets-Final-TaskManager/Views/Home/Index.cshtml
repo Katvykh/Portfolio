@@ -1,0 +1,42 @@
+﻿@model IEnumerable<KVykhovanets_Final_TaskManager.Models.TaskList>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Your Task Lists</h1>
+
+    <a class="btn btn-primary mb-3" asp-controller="TaskList" asp-action="Create">Create New List</a>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Success"]
+        </div>
+    }
+
+    @if (!Model.Any())
+    {
+        <p>You don’t have any task lists yet.</p>
+    }
+    else
+    {
+        <ul class="list-group">
+            @foreach (var list in Model)
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <div>
+                        @list.Name
+                    </div>
+                    <div>
+                        <a class="btn btn-sm btn-outline-info me-2" asp-controller="TaskList" asp-action="Details" asp-route-id="@list.Id">View</a>
+                        <form asp-controller="TaskList" asp-action="Delete" asp-route-id="@list.Id" method="post" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this list?');">
+                            <button type="submit" class="btn btn-sm btn-outline-danger">Delete</button>
+                        </form>
+                    </div>
+                </li>
+            }
+        </ul>
+    }
+</div>
